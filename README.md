@@ -81,6 +81,7 @@ i. After the trial ends do below in steps for better synchronisation:
    ➤ Extracts frames from video and filters them using Left Leg timestamps.
 
 *** 3. Directory Structure**
+```
 .
 ├── Master_Hardware/
 │   └── Code for NodeMCU Communication Module
@@ -98,6 +99,6 @@ i. After the trial ends do below in steps for better synchronisation:
 ├── ewm_with_plot.py
 ├── plot.py
 ├── filter_csv.py
-├── convert_timestamp.py|
+├── convert_timestamp.py
 ├── extract_frames.py
 └── README.md
