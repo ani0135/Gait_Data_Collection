@@ -1,0 +1,7 @@
+*.csv
+*.mp4
+00*/
+old_code/
+output_frames/
+Synchronisation/
+.vscode/
